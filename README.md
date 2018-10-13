@@ -1,3 +1,1 @@
-# ScicoFramework
-
-readme2
+# ScicoFramewo
